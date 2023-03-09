@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+     "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ABP Live",
+            "title": "NASA's SpaceX Crew-6 To Launch First Arab Astronaut For Long-Duration Mission To ISS Tomorrow. All About It - ABP Live",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMizgFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vc2NpZW5jZS9uYXNhLXNwYWNleC1jcmV3LTYtdG8tbGF1bmNoLWZpcnN0LWFyYWItYXN0cm9uYXV0LWZvci1sb25nLWR1cmF0aW9uLW1pc3Npb24tdG8taW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLXN1bHRhbi1hbG5leWFkaS1zdGVwaGVuLWJvd2VuLXdhcnJlbi1ob2J1cmctYW5kcmV5LWZlZHlhZXYtMTU4NDc2MtIB0gFodHRwczovL25ld3MuYWJwbGl2ZS5jb20vc2NpZW5jZS9uYXNhLXNwYWNleC1jcmV3LTYtdG8tbGF1bmNoLWZpcnN0LWFyYWItYXN0cm9uYXV0LWZvci1sb25nLWR1cmF0aW9uLW1pc3Npb24tdG8taW50ZXJuYXRpb25hbC1zcGFjZS1zdGF0aW9uLXN1bHRhbi1hbG5leWFkaS1zdGVwaGVuLWJvd2VuLXdhcnJlbi1ob2J1cmctYW5kcmV5LWZlZHlhZXYtMTU4NDc2Mi9hbXA?oc=5",
+            "urlToImage":"https://feeds.abplive.com/onecms/images/uploaded-images/2023/02/26/df24a2724a7e7ccd52f2fd3225d872fe1677422051029324_original.jpg?impolicy=abp_cdn&imwidth=720",
+            "publishedAt": "2023-02-26T16:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "Trade setup for Monday: Top 15 things to know before the opening bell - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiiAFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvYnVzaW5lc3MvbWFya2V0cy90cmFkZS1zZXR1cC1mb3ItbW9uZGF5LXRvcC0xNS10aGluZ3MtdG8ta25vdy1iZWZvcmUtdGhlLW9wZW5pbmctYmVsbC0zMi0xMDE2MzQxMS5odG1s0gGMAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9idXNpbmVzcy9tYXJrZXRzL3RyYWRlLXNldHVwLWZvci1tb25kYXktdG9wLTE1LXRoaW5ncy10by1rbm93LWJlZm9yZS10aGUtb3BlbmluZy1iZWxsLTMyLTEwMTYzNDExLmh0bWwvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T15:14:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "TechRadar",
+            "title": "AMD has big ideas about how AI could be used in PC games - and I'm terrified - TechRadar",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMibGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vZmVhdHVyZXMvYW1kLWhhcy1iaWctaWRlYXMtYWJvdXQtaG93LWFpLWNvdWxkLWJlLXVzZWQtaW4tcGMtZ2FtZXMtYW5kLWltLXRlcnJpZmllZNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T15:00:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Android Police",
+            "title": "Xiaomi 13 Pro and its monstrous one-inch Leica camera launch globally - Android Police",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiU2h0dHBzOi8vd3d3LmFuZHJvaWRwb2xpY2UuY29tL3hpYW9taS0xMy1wcm8tbW9uc3Ryb3VzLWxlaWNhLWNhbWVyYS1sYXVuY2gtZ2xvYmFsbHkv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T15:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "AUS vs SA Live Score, Women’s T20 World Cup 2023 Final: Beth Mooney’s 74 guides Australia to 156/6 - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMipQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvc3BvcnRzL2NyaWNrZXQvYXVzdHJhbGlhLXZzLXNvdXRoLWFmcmljYS1saXZlLXNjb3JlLWljYy13b21lbi10MjAtd29ybGQtY3VwLTIwMjMtZmluYWwtYXVzLXctdnMtc2Etdy1hdC1uZXdsYW5kcy1jYXBlLXRvd24tODQ2NzQ2MC_SAaoBaHR0cHM6Ly9pbmRpYW5leHByZXNzLmNvbS9hcnRpY2xlL3Nwb3J0cy9jcmlja2V0L2F1c3RyYWxpYS12cy1zb3V0aC1hZnJpY2EtbGl2ZS1zY29yZS1pY2Mtd29tZW4tdDIwLXdvcmxkLWN1cC0yMDIzLWZpbmFsLWF1cy13LXZzLXNhLXctYXQtbmV3bGFuZHMtY2FwZS10b3duLTg0Njc0NjAvbGl0ZS8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T14:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HT Tech",
+            "title": "Stop WhatsApp messages from being deleted with this new feature - HT Tech",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vdGVjaC9uZXdzL3N0b3Atd2hhdHNhcHAtbWVzc2FnZXMtZnJvbS1iZWluZy1kZWxldGVkLXdpdGgtdGhpcy1uZXctZmVhdHVyZS03MTY3NzQxOTMwMzY2OS5odG1s0gGBAWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vYW1wL3RlY2gvbmV3cy9zdG9wLXdoYXRzYXBwLW1lc3NhZ2VzLWZyb20tYmVpbmctZGVsZXRlZC13aXRoLXRoaXMtbmV3LWZlYXR1cmUtNzE2Nzc0MTkzMDM2NjkuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T13:51:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV",
+            "title": "\"This Is Cowardice\": Rahul Gandhi On S Jaishankar's China Remarks - NDTV",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZWh0dHBzOi8vd3d3Lm5kdHYuY29tL2luZGlhLW5ld3MvcmFodWwtZ2FuZGhpLW9uLXMtamFpc2hhbmthcnMtY2hpbmEtcmVtYXJrcy10aGlzLWlzLWNvd2FyZGljZS0zODE2MDc50gFraHR0cHM6Ly93d3cubmR0di5jb20vaW5kaWEtbmV3cy9yYWh1bC1nYW5kaGktb24tcy1qYWlzaGFua2Fycy1jaGluYS1yZW1hcmtzLXRoaXMtaXMtY293YXJkaWNlLTM4MTYwNzkvYW1wLzE?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T13:35:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "The Indian Express",
+            "title": "Rahul Gandhi the leader, Modi the target, Congress Raipur meet wraps up with 2019 echoes - The Indian Express",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikQFodHRwczovL2luZGlhbmV4cHJlc3MuY29tL2FydGljbGUvcG9saXRpY2FsLXB1bHNlL3JhaHVsLWdhbmRoaS10aGUtbGVhZGVyLW1vZGktdGhlLXRhcmdldC1jb25ncmVzcy1yYWlwdXItbWVldC13cmFwcy11cC13aXRoLTIwMTktZWNob2VzLTg0Njc5NTMv0gGWAWh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9wb2xpdGljYWwtcHVsc2UvcmFodWwtZ2FuZGhpLXRoZS1sZWFkZXItbW9kaS10aGUtdGFyZ2V0LWNvbmdyZXNzLXJhaXB1ci1tZWV0LXdyYXBzLXVwLXdpdGgtMjAxOS1lY2hvZXMtODQ2Nzk1My9saXRlLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T13:08:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "msnNOW",
+            "title": "This latest HMD Nokia phone can be easily repaired in minutes - msnNOW",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vd3d3Lm1zbi5jb20vZW4taW4vbGlmZXN0eWxlL3Nob3BwaW5nL3RoaXMtbGF0ZXN0LWhtZC1ub2tpYS1waG9uZS1jYW4tYmUtZWFzaWx5LXJlcGFpcmVkLWluLW1pbnV0ZXMvYXItQUExN1dLYmnSAXpodHRwczovL3d3dy5tc24uY29tL2VuLWluL2xpZmVzdHlsZS9zaG9wcGluZy90aGlzLWxhdGVzdC1obWQtbm9raWEtcGhvbmUtY2FuLWJlLWVhc2lseS1yZXBhaXJlZC1pbi1taW51dGVzL2FtcC9hci1BQTE3V0tiaQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T12:38:18Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HT Tech",
+            "title": "NASA finds rare asteroid! Key to origin of water on Earth? - HT Tech",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMidmh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vdGVjaC9uZXdzL25hc2EtZmluZHMtcmFyZS1hc3Rlcm9pZC1rZXktdG8tb3JpZ2luLW9mLXdhdGVyLW9uLWVhcnRoLTcxNjc3NDE0NDkxMjMzLmh0bWzSAXpodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL2FtcC90ZWNoL25ld3MvbmFzYS1maW5kcy1yYXJlLWFzdGVyb2lkLWtleS10by1vcmlnaW4tb2Ytd2F0ZXItb24tZWFydGgtNzE2Nzc0MTQ0OTEyMzMuaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T12:31:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Moneycontrol",
+            "title": "The Whole Truth: A secret to happier and healthier middle age - Moneycontrol",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiggFodHRwczovL3d3dy5tb25leWNvbnRyb2wuY29tL25ld3MvaGVhbHRoLWFuZC1maXRuZXNzL3RoZS13aG9sZS10cnV0aC13aGF0LWlzLXBlcmltZW5vcGF1c2UtYW5kLWhvdy1sb25nLWRvZXMtaXQtbGFzdC0xMDE2Mjg1MS5odG1s0gGGAWh0dHBzOi8vd3d3Lm1vbmV5Y29udHJvbC5jb20vbmV3cy9oZWFsdGgtYW5kLWZpdG5lc3MvdGhlLXdob2xlLXRydXRoLXdoYXQtaXMtcGVyaW1lbm9wYXVzZS1hbmQtaG93LWxvbmctZG9lcy1pdC1sYXN0LTEwMTYyODUxLmh0bWwvYW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T12:18:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Hindustan Times",
+            "title": "Accused in Sidhu Moosewala murder case killed in gangster clash in Punjab jail - Hindustan Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMijAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9hY2N1c2VkLW9mLXNpZGh1LW1vb3Nld2FsYS1tdXJkZXIta2lsbGVkLWluLWNsYXNoLW9mLWdhbmdzdGVycy1pbi1wdW5qYWItamFpbC0xMDE2Nzc0MTMzNzk1NzcuaHRtbNIBkAFodHRwczovL3d3dy5oaW5kdXN0YW50aW1lcy5jb20vaW5kaWEtbmV3cy9hY2N1c2VkLW9mLXNpZGh1LW1vb3Nld2FsYS1tdXJkZXIta2lsbGVkLWluLWNsYXNoLW9mLWdhbmdzdGVycy1pbi1wdW5qYWItamFpbC0xMDE2Nzc0MTMzNzk1NzctYW1wLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T12:14:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "Congress leader receives threat call, asked to stop speaking against Amritpal Singh - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMinQFodHRwczovL3d3dy5pbmRpYXRvZGF5LmluL2luZGlhL3N0b3J5L2NvbmdyZXNzLWxlYWRlci1yZWNlaXZlcy10aHJlYXQtY2FsbC1hc2tlZC10by1zdG9wLXNwZWFraW5nLWFnYWluc3Qta2hhbGlzdGFuaS1sZWFkZXItYW1yaXRwYWwtc2luZ2gtMjMzOTg3OC0yMDIzLTAyLTI20gGhAWh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vYW1wL2luZGlhL3N0b3J5L2NvbmdyZXNzLWxlYWRlci1yZWNlaXZlcy10aHJlYXQtY2FsbC1hc2tlZC10by1zdG9wLXNwZWFraW5nLWFnYWluc3Qta2hhbGlzdGFuaS1sZWFkZXItYW1yaXRwYWwtc2luZ2gtMjMzOTg3OC0yMDIzLTAyLTI2?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T11:54:13Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Mint",
+            "title": "Congress plans new cross-country march after Bharat Jodo Yatra, this time from east to west | Mint - Mint",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikgFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9jb25ncmVzcy1wbGFucy1uZXctY3Jvc3MtY291bnRyeS1tYXJjaC1hZnRlci1iaGFyYXQtam9kby15YXRyYS10aGlzLXRpbWUtZnJvbS1lYXN0LXRvLXdlc3QtMTE2Nzc0MTA0MjI3NjUuaHRtbNIBlgFodHRwczovL3d3dy5saXZlbWludC5jb20vbmV3cy9pbmRpYS9jb25ncmVzcy1wbGFucy1uZXctY3Jvc3MtY291bnRyeS1tYXJjaC1hZnRlci1iaGFyYXQtam9kby15YXRyYS10aGlzLXRpbWUtZnJvbS1lYXN0LXRvLXdlc3QvYW1wLTExNjc3NDEwNDIyNzY1Lmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T11:37:33Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "ESPNcricinfo",
+            "title": "With backs against the wall, batters provide New Zealand with an outside shot - ESPNcricinfo",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMicWh0dHBzOi8vd3d3LmVzcG5jcmljaW5mby5jb20vc3RvcnkvYmF0dGVycy1wcm92aWRlLWhvcGUtb24tbnotd2l0aC1hbi1vdXRzaWRlLXNob3QtdnMtZW5nbGFuZC1pbi0ybmQtdGVzdC0xMzYwNzgz0gF-aHR0cHM6Ly93d3cuZXNwbmNyaWNpbmZvLmNvbS9zdG9yeS9iYXR0ZXJzLXByb3ZpZGUtaG9wZS1vbi1uei13aXRoLWFuLW91dHNpZGUtc2hvdC12cy1lbmdsYW5kLWluLTJuZC10ZXN0LTEzNjA3ODM_cGxhdGZvcm09YW1w?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T11:33:24Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Financial Times",
+            "title": "Adani stock market losses hit $145bn one month after short seller attack - Financial Times",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2UwNmIxNzk3LTdhYzYtNDlmNS1iNGM4LWNkZjQ3NjUyZjY1ZNIBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T11:33:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "India Today",
+            "title": "UP BJP leader's brother named in Umesh Pal's murder case - India Today",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3LmluZGlhdG9kYXkuaW4vaW5kaWEvc3RvcnkvdXAtYmpwLWxlYWRlci1yYWhpbC1oYXNhbi1icm90aGVyLWdodWxhbS1uYW1lZC1pbi11bWVzaC1wYWxzLW11cmRlci0yMzM5ODM5LTIwMjMtMDItMjbSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T10:53:03Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "HT Tech",
+            "title": "Watch Venus, Jupiter, Moon on March 1, 2! Know when, where, how to see planetary conjunction - HT Tech",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMilAFodHRwczovL3RlY2guaGluZHVzdGFudGltZXMuY29tL3RlY2gvbmV3cy93YXRjaC12ZW51cy1qdXBpdGVyLW1vb24tb24tbWFyY2gtMS0yLWtub3ctd2hlbi13aGVyZS1ob3ctdG8tc2VlLXBsYW5ldGFyeS1jb25qdW5jdGlvbi03MTY3NzQwODMyNTI0MC5odG1s0gGYAWh0dHBzOi8vdGVjaC5oaW5kdXN0YW50aW1lcy5jb20vYW1wL3RlY2gvbmV3cy93YXRjaC12ZW51cy1qdXBpdGVyLW1vb24tb24tbWFyY2gtMS0yLWtub3ctd2hlbi13aGVyZS1ob3ctdG8tc2VlLXBsYW5ldGFyeS1jb25qdW5jdGlvbi03MTY3NzQwODMyNTI0MC5odG1s?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T10:48:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NDTV Profit",
+            "title": "Platforms Like ChatGPT Won't Replace Jobs, Will Be A Co-Worker: TCS - NDTV Profit",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMifGh0dHBzOi8vd3d3Lm5kdHYuY29tL2J1c2luZXNzL3RhdGEtY29uc3VsdGFuY3ktc2VydmljZXMtcGxhdGZvcm1zLWxpa2UtY2hhdGdwdC13b250LXJlcGxhY2Utam9icy13aWxsLWJlLWEtY28td29ya2VyLTM4MTU3MTTSAYIBaHR0cHM6Ly93d3cubmR0di5jb20vYnVzaW5lc3MvdGF0YS1jb25zdWx0YW5jeS1zZXJ2aWNlcy1wbGF0Zm9ybXMtbGlrZS1jaGF0Z3B0LXdvbnQtcmVwbGFjZS1qb2JzLXdpbGwtYmUtYS1jby13b3JrZXItMzgxNTcxNC9hbXAvMQ?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T10:44:46Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Greater Kashmir",
+            "title": "J&K LG Manoj Sinha condemns killing of Kashmiri Pandit in Pulwama - Greater Kashmir",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMikwFodHRwczovL3d3dy5ncmVhdGVya2FzaG1pci5jb20vamFtbXUvamstbGctbWFub2otc2luaGEtY29uZGVtbnMtcHVsd2FtYS1raWxsaW5nLXNheXMtaGFzLWdpdmVuLWZyZWUtaGFuZC10by1zZWN1aXJ0eS1mb3JjZXMtdG8tZGVhbC13aXRoLXRlcnJvcmlzdHPSAZ0BaHR0cHM6Ly93d3cuZ3JlYXRlcmthc2htaXIuY29tL2FtcC9zdG9yeS9qYW1tdS9qay1sZy1tYW5vai1zaW5oYS1jb25kZW1ucy1wdWx3YW1hLWtpbGxpbmctc2F5cy1oYXMtZ2l2ZW4tZnJlZS1oYW5kLXRvLXNlY3VpcnR5LWZvcmNlcy10by1kZWFsLXdpdGgtdGVycm9yaXN0cw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-02-26T10:10:37Z",
+            "content": null
+        }
+    ]
+}
